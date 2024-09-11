@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hello This is Vamsi Krishna Nouluri<br>I am currently an Undergradute student at VIT-AP UNIVERSITY<br>
+Hello This is Vamsi Krishna Nouluri<br>I am currently Pursuing my Masters in computer science at Santaclara University<br>
 
 
 ## 🌐 Socials:
